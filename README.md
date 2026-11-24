@@ -1,0 +1,43 @@
+# Coffee Store Sales & Profit Analysis – Tableau
+
+## Project Overview
+This project presents an interactive Tableau dashboard for analyzing coffee store sales and profitability. It helps explore sales performance across products, markets, and time periods.
+
+## Tools & Technologies
+- Tableau
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+
+## Dashboard Features
+- Sales and Profit Analysis by Product
+- Top Products Analysis
+- Geographic Sales and Profit Map
+- Monthly Sales and Profit Trends
+- Market Contribution Analysis
+- Interactive Filters for Market, Product, Year, and Sales
+
+## Project Files
+- `Coffee-Store-Sales-Analysis.twbx` – Packaged Tableau workbook.
+- `Coffee-Store-Dashboard.png` – Dashboard preview.
+
+## Dashboard Preview
+![Coffee Store Dashboard](Coffee-Store-Dashboard.png)
+
+## Skills Demonstrated
+- Tableau Dashboard Development
+- Data Visualization
+- Sales Analysis
+- Profitability Analysis
+- Business Intelligence
+- Interactive Reporting
+
+## How to View the Dashboard
+1. Download the `.twbx` file from this repository.
+2. Open it using Tableau Desktop.
+3. Explore the interactive dashboard and filters.
+
+## Author
+**Yeshwanth Boga**
+
+Aspiring Data Analyst | Power BI | Tableau | Excel | SQL | Python
